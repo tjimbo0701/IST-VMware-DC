@@ -1,0 +1,8 @@
+vsphere_user="saukotha@dc.css"
+vsphere_server="10.106.236.60"
+vsphere_datacenter="Site-1"
+vsphere_datastore="datastore38_ssd"
+vsphere_vm_template="centos8-template"
+vsphere_resource_pool="saukotha_rp"
+vsphere_vm_portgroup="common|VMwareServices_ap|Jumpbox2VM_epg"
+vsphere_vm_name="saukotha_IST-TEST01"
